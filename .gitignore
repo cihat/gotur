@@ -1,0 +1,8 @@
+node_modules
+dist
+coverage
+
+*.env
+
+!development.env
+!test.env
